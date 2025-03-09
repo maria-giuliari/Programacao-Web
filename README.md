@@ -26,13 +26,15 @@ RF008: o sistema deve permitir a confirmação de reservas.
 
 Requisitos Não Funcionais (RNF)
 
-RNF001:
+RNF001: o sistema deve utilizar um banco de dados para armazenar informações de clientes, reservas e disponibilidade de mesas.
 
-RNF002: 
+RNF002: o tempo de resposta do sistema deve ser inferior a 10 segundos.
 
-RNF003:
+RNF003: o sistema deve permitir, no mínimo, 30 reservas simultâneas sem perda de desempenho.
 
-Tipo de Arquitetura (monolito ou microserviço):
+RNF004: o sistema deve ter autenticação segura para clientes e administração, com e-mail e senha.
+
+Tipo de Arquitetura: monolítico
 
 Principais tecnologias: 
 
