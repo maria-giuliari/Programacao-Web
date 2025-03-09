@@ -24,7 +24,18 @@ RF007: o sistema deve exibir uma lista das reservas ativas para os administrador
 
 RF008: o sistema deve permitir a confirmação de reservas. 
 
+Requisitos Não Funcionais (RNF)
+RNF001:
+
+RNF002: 
+
+RNF003:
+
+Tipo de Arquitetura (monolito ou microserviço):
+
 Principais tecnologias: 
+
+Banco de Dados: MySQL; 
 
 Organização das tarefas: 
 
