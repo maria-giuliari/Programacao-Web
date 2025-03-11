@@ -48,7 +48,7 @@ RNF007: o sistema deve apresentar mensagens de erro claras e compreensíveis.
 
 RNF008: o sistema deve sempre estar disponível. 
 
-Tipo de Arquitetura: Monolítica (projetar já com separação lógica clara entre módulos (ex: autenticação, cliente, reserva, administração) facilitará a migração futura para microsserviços, se necessário) 
+Tipo de Arquitetura: Monolítica - projetar já com separação lógica clara entre módulos (ex: autenticação, cliente, reserva, administração) facilitará a migração futura para microsserviços, se necessário.
 
 Principais tecnologias: 
 
@@ -57,6 +57,9 @@ Back-End: JavaScript (Node.js e Express.js);
 Banco de Dados: MySQL; 
 Autentificação: JWT (JSON Web Token)
 
-Organização das tarefas: 
+Organização das tarefas:
+
+Mariele Vieira: Back-End: JavaScript (Node.js e Express.js) e Banco de Dados: MySQL; 
+Maria Giuliari: Front-End: JavaScript (React.js) e Autentificação: JWT (JSON Web Token);
 
 Equipe: Maria Giuliari e Mariele
