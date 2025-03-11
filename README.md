@@ -24,6 +24,12 @@ RF007: o sistema deve exibir uma lista das reservas ativas para os administrador
 
 RF008: o sistema deve permitir a confirmação de reservas. 
 
+RF009: o sistema deve permitir que o cliente visualize o status da sua reserva (pendente, confirmada, cancelada). 
+
+RF010: o sistema deve limitar o número de reservas simultâneas conforme a capacidade total de mesas do restaurante. 
+
+RF011: o sistema deve impedir reservas duplicadas para o mesmo cliente. 
+
 Requisitos Não Funcionais (RNF)
 
 RNF001: o sistema deve utilizar um banco de dados para armazenar informações de clientes, reservas e disponibilidade de mesas.
@@ -34,11 +40,22 @@ RNF003: o sistema deve permitir, no mínimo, 30 reservas simultâneas sem perda 
 
 RNF004: o sistema deve ter autenticação segura para clientes e administração, com e-mail e senha.
 
+RNF005: o sistema deve permitir reservas apenas no horário de funcionamento do restaurante. 
+
+RNF006: as senhas dos usuários devem ser armazenadas de forma segura. 
+
+RNF007: o sistema deve apresentar mensagens de erro claras e compreensíveis. 
+
+RNF008: o sistema deve sempre estar disponível. 
+
 Tipo de Arquitetura: monolítico
 
 Principais tecnologias: 
 
+Front-End: JavaScript (React.js);
+Back-End: JavaScript (Node.js e Express.js);
 Banco de Dados: MySQL; 
+Autentificação: JWT (JSON Web Token)
 
 Organização das tarefas: 
 
