@@ -60,6 +60,7 @@ Autentificação: JWT (JSON Web Token)
 Organização das tarefas:
 
 Mariele Vieira: Back-End: JavaScript (Node.js e Express.js) e Banco de Dados: MySQL; 
+
 Maria Giuliari: Front-End: JavaScript (React.js) e Autentificação: JWT (JSON Web Token);
 
 Equipe: Maria Giuliari e Mariele
