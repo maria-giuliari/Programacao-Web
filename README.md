@@ -53,8 +53,11 @@ Tipo de Arquitetura: Monolítica - projetar já com separação lógica clara en
 Principais tecnologias: 
 
 Front-End: JavaScript (React.js);
+
 Back-End: JavaScript (Node.js e Express.js);
+
 Banco de Dados: MySQL; 
+
 Autentificação: JWT (JSON Web Token)
 
 Organização das tarefas:
