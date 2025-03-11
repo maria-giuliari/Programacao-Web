@@ -54,13 +54,13 @@ Tipo de Arquitetura: Monolítica - projetar já com separação lógica clara en
 
 Principais tecnologias: 
 
-Front-End: JavaScript (React.js);
+Front-End: JavaScript (React.js): é uma biblioteca moderna, robusta e muito bem exigida no ecossistema web. Sua abordagem baseada em componentes facilita tanto a manutenção quanto a escalabilidade da interface. Além disso, o React permite a criação de aplicativos de página única (SPA), o que melhora significativamente a experiência do usuário para evitar recarregamentos constantes da página.
 
-Back-End: JavaScript (Node.js e Express.js);
+Back-End: JavaScript (Node.js e Express.js): o Node oferece um ambiente leve e eficiente, tanto para aplicações que excluem múltiplas requisições simultâneas, como um sistema de reservas. O Express, por sua vez, adiciona uma camada de estrutura ao Node, permitindo a organização mais clara de rotas e lógica de negócio.
 
-Banco de Dados: MySQL; 
+Banco de Dados: MySQL: possui ampla documentação, é amplamente apoiado por ferramentas de desenvolvimento e é conhecido por sua estabilidade. 
 
-Autentificação: JWT (JSON Web Token)
+Autentificação: JWT (JSON Web Token): importante permitir uma autenticação sem a necessidade de manter sessões ativas no servidor. Isso contribui para a escalabilidade do sistema. 
 
 Organização das tarefas:
 
