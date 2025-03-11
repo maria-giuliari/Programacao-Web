@@ -48,7 +48,7 @@ RNF007: o sistema deve apresentar mensagens de erro claras e compreensíveis.
 
 RNF008: o sistema deve sempre estar disponível. 
 
-Tipo de Arquitetura: monolítico
+Tipo de Arquitetura: Monolítica (projetar já com separação lógica clara entre módulos (ex: autenticação, cliente, reserva, administração) facilitará a migração futura para microsserviços, se necessário) 
 
 Principais tecnologias: 
 
