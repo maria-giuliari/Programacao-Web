@@ -20,17 +20,13 @@ RF003: o sistema deve permitir a visualização da lista de clientes cadastrados
 
 RF004: o sistema deve permitir que os clientes realizem reservas informando data e número de pessoas.  
 
-RF005: o sistema deve permitir a edição ou exclusão de reservas. 
+RF005: o sistema deve permitir a edição ou cancelamento de reservas. 
 
 RF007: o sistema deve exibir uma lista das reservas ativas para os administradores. 
 
 RF008: o sistema deve permitir a confirmação de reservas. 
 
 RF009: o sistema deve permitir que o cliente visualize o status da sua reserva (pendente, confirmada, cancelada). 
-
-RF010: o sistema deve limitar o número de reservas simultâneas conforme a capacidade total de mesas do restaurante. 
-
-RF011: o sistema deve impedir reservas duplicadas para o mesmo cliente. 
 
 Requisitos Não Funcionais (RNF)
 
@@ -49,6 +45,10 @@ RNF006: as senhas dos usuários devem ser armazenadas de forma segura.
 RNF007: o sistema deve apresentar mensagens de erro claras e compreensíveis. 
 
 RNF008: o sistema deve sempre estar disponível. 
+
+RNF009: o sistema deve limitar o número de reservas simultâneas conforme a capacidade total de mesas do restaurante. 
+
+RNF010: o sistema deve impedir reservas duplicadas para o mesmo cliente. 
 
 Tipo de Arquitetura: Monolítica - projetar já com separação lógica clara entre módulos (ex: autenticação, cliente, reserva, administração) facilitará a migração futura para microsserviços, se necessário.
 
