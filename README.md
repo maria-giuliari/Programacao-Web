@@ -22,11 +22,11 @@ RF004: o sistema deve permitir que os clientes realizem reservas informando data
 
 RF005: o sistema deve permitir a edição ou cancelamento de reservas. 
 
-RF007: o sistema deve exibir uma lista das reservas ativas para os administradores. 
+RF006: o sistema deve exibir uma lista das reservas ativas para os administradores. 
 
-RF008: o sistema deve permitir a confirmação de reservas. 
+RF007: o sistema deve permitir a confirmação de reservas. 
 
-RF009: o sistema deve permitir que o cliente visualize o status da sua reserva (pendente, confirmada, cancelada). 
+RF008: o sistema deve permitir que o cliente visualize o status da sua reserva (pendente, confirmada, cancelada). 
 
 Requisitos Não Funcionais (RNF)
 
