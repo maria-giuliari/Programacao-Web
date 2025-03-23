@@ -44,7 +44,7 @@ RNF006: as senhas dos usuários devem ser armazenadas de forma segura.
 
 RNF007: o sistema deve apresentar mensagens de erro claras e compreensíveis. 
 
-RNF008: o sistema deve sempre estar disponível. 
+RNF008: o sistema deve estar disponível a maior parte do tempo. 
 
 RNF009: o sistema deve limitar o número de reservas simultâneas conforme a capacidade total de mesas do restaurante. 
 
