@@ -4,7 +4,7 @@ Escopo: um sistema que permite que os clientes do restaurante realizem reservas 
 
 Funcionalidades principais:
 
-CRUD de clientes: cadastro de clientes (nome, email, telefone, etc), edição e exclusão de cadastro, lista dos clientes cadastrados.
+CRUD de clientes: cadastro de clientes (nome, email, telefone, senha), edição e exclusão de cadastro, lista dos clientes cadastrados.
 
 CRUD de reservas: criação de reserva (cliente, data, número de pessoas), edição e exclusão de reservas, lista das reservas ativas. 
 
