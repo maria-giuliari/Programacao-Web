@@ -12,7 +12,7 @@ Transação: tanto o cliente quanto o restaurante podem confirmar uma reserva, g
 
 Requisitos Funcionais (RF)
 
-RF001: o sistema deve permitir o cadastro de novos clientes com informações como nome, email e telefone. 
+RF001: o sistema deve permitir o cadastro de novos clientes com informações como nome, email, telefone e CPF. 
 
 RF002: o sistema deve permitir que os clientes editem e excluam os seus cadastros. 
 
